@@ -1,4 +1,22 @@
 Hello123
 FirstLine
 SecondLine
+<<<<<<< HEAD
+<<<<<<< HEAD
 ThirdLine
+=======
+ThirdLine
+
+FourthLine
+FifthLine
+SixthLine
+>>>>>>> 86871b6... sixLine
+=======
+ThirdLine
+
+FourthLine
+<<<<<<< HEAD
+>>>>>>> 106021d... FourthLine
+=======
+FifthLine
+>>>>>>> a518f42... FifthLine
